@@ -1,0 +1,8 @@
+/* badge */
+.badge {
+    background-color: #1c84c6;
+    color: white;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-size: 10px;
+}

@@ -1,0 +1,13 @@
+/* expandable-menu */
+.expandable-menu {
+    padding: 8px 16px;
+    color: #a7b1c2;
+}
+
+.expandable-menu > i {
+    padding: 4px;
+}
+
+.expandable-menu > span {
+    padding: 4px;
+}

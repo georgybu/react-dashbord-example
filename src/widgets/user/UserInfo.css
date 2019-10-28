@@ -1,0 +1,14 @@
+/* user-info */
+.user-info {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.user-info .user-name {
+    color: #d6dce5;
+}
+
+.user-info .user-tile {
+    color: #6e8294;
+}

@@ -1,0 +1,17 @@
+/* top-number */
+.top-number {
+    color: #676a6c;
+}
+
+.top-number .value {
+    font-size: 24px;
+}
+
+.top-number .label {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-number .movement {
+    font-size: 12px;
+}
